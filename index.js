@@ -13,7 +13,7 @@
 const Alexa = require('alexa-sdk');
 const moment = require('moment');
 const moment_tz = require('moment-timezone');
-const APP_ID = undefined;  // TODO replace with your app ID (OPTIONAL).
+const APP_ID = undefined;  // TODO Optional
 
 const languageStrings = {
     'en-US': {
